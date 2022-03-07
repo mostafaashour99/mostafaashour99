@@ -1,4 +1,4 @@
-  <em>I am fresh graduate from <a href="http://suez.edu.eg/ar/?page_id=7325&lang=en"><b>Faculty of Computers and Informatics</b></a> computer science department. I am a self-taught software engineer, passionate about machine learning, deep learning, and natural language processing. Motivated to build more intelligent and smart systems with a good and accurate perception, to use them in solving real-world problems. </em>
+  <em>I am fresh graduate from <a href="http://suez.edu.eg/ar/?page_id=7325&lang=en"><b>Faculty of Computers and Informatics</b></a> computer science department. I am software engineer, passionate about machine learning, deep learning, and natural language processing. Motivated to build more intelligent and smart systems with a good and accurate perception, to use them in solving real-world problems. </em>
  <br/>
  
  <img align="right" src="https://raw.githubusercontent.com/UgRoss/UgRoss/master/assets/cat-dev.gif"/>
