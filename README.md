@@ -11,6 +11,7 @@
 - Data Science
 - Machine Learning
 - Natural language processing
+- Deep Learning
 
 **Programming Languages : Python, C++, C#, R,  Dart, Java , Javascript ,CSS, HTML.**
 	
