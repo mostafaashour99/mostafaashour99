@@ -29,8 +29,9 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaashour99&&show_icons=true&theme=swift" alt="Pramod's Github Stats">
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaashour99&show_icons=true&locale=en&layout=compactlangs_count=8&theme=swift" alt="Pramod's Github Stats">
-</p>  
+ 
 
 
 <div align="center">
