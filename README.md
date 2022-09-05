@@ -30,7 +30,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaashour99&&show_icons=true&theme=rose_pine" alt="Pramod's Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaashour99&show_icons=true&locale=en&layout=compactlangs_count=8&theme=rose_pine" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaashour99&show_icons=true&locale=en&layout=compactlangs_count=5&theme=rose_pine" alt="Pramod's Github Stats">
  
 </p>
 
